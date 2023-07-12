@@ -1,2 +1,2 @@
-# fotos_pagina
-pagina muestra de una pagina de una empresa (FICTICIA). 
+# Pagina
+pagina de una empresa (FICTICIA). 
